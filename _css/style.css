@@ -1,0 +1,14 @@
+
+.writing {
+    color: #3f2ed8d0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.backing{
+    background-color: rgb(212, 203, 203);
+}
+
+a:link { color:#00ffaa; } 
+a:visited { color:#ff0000; } 
+a:hover { color:#311749; } 
+
