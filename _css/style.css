@@ -12,3 +12,7 @@ a:link { color:#00ffaa; }
 a:visited { color:#ff0000; } 
 a:hover { color:#311749; } 
 
+.sizing{
+    width: 180px;
+    height: 200px; 
+}
