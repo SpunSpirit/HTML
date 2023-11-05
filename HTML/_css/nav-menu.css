@@ -1,0 +1,33 @@
+/* Set nav to sticky or fixed */
+.topna{
+  position: sticky;
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #b3aaaa;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #2f2d9b;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #2a1579;
+  color: rgb(30, 41, 190);
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #0d10a5;
+  color: white;
+}

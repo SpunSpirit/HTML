@@ -1,0 +1,68 @@
+.hea{
+    color: #3f2ed8d0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.subh{
+    color: #3f2ed8d0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+
+.writing {
+    color: #3f2ed8d0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.backing{
+    background-color: rgb(212, 203, 203);
+}
+
+a:link { color:#00ffaa; } 
+a:visited { color:#ff0000; } 
+a:hover { color:#311749; } 
+
+
+.sizing{
+    width: 180px;
+    height: 200px; 
+}
+
+.texts{
+    width:70%
+}
+
+.form-center{
+    width: 400px;
+    margin: 0 auto;
+     
+}
+
+.bttm-border{
+    border-bottom: thin solid black;
+}
+
+table{
+    padding: 15px;
+    width:50% ;
+}
+
+th,td{
+    border-bottom: thin solid black;
+    padding: 10px;
+}
+
+th{
+    background-color: #ced4d054;
+}
+
+caption{
+    background-color: #fcfcfc;
+}
+
+tr:nth-child(even) 
+{background-color: #ced4d294;}
